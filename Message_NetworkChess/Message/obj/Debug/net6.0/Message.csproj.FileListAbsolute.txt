@@ -1,0 +1,12 @@
+D:\ProjectWorkspace\Test\Server\Message\Message\bin\Debug\net6.0\Message.deps.json
+D:\ProjectWorkspace\Test\Server\Message\Message\bin\Debug\net6.0\Message.dll
+D:\ProjectWorkspace\Test\Server\Message\Message\bin\Debug\net6.0\Message.pdb
+D:\ProjectWorkspace\Test\Server\Message\Message\obj\Debug\net6.0\Message.csproj.AssemblyReference.cache
+D:\ProjectWorkspace\Test\Server\Message\Message\obj\Debug\net6.0\Message.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProjectWorkspace\Test\Server\Message\Message\obj\Debug\net6.0\Message.AssemblyInfoInputs.cache
+D:\ProjectWorkspace\Test\Server\Message\Message\obj\Debug\net6.0\Message.AssemblyInfo.cs
+D:\ProjectWorkspace\Test\Server\Message\Message\obj\Debug\net6.0\Message.csproj.CoreCompileInputs.cache
+D:\ProjectWorkspace\Test\Server\Message\Message\obj\Debug\net6.0\Message.dll
+D:\ProjectWorkspace\Test\Server\Message\Message\obj\Debug\net6.0\refint\Message.dll
+D:\ProjectWorkspace\Test\Server\Message\Message\obj\Debug\net6.0\Message.pdb
+D:\ProjectWorkspace\Test\Server\Message\Message\obj\Debug\net6.0\ref\Message.dll
