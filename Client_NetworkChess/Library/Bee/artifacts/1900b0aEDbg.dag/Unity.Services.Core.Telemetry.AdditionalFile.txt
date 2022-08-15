@@ -1,1 +1,1 @@
-D:\ProjectWorkspace\Test\NetWorkChess
+D:\ProjectWorkspace\Test\NetworkChess\Client_NetworkChess

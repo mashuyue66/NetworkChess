@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NGAGFfpnjbZUkWSIbmXo0iH7dDP3BEiICnm19ZHb9dJtDHFkj93ESFirwiMo0GqBEmiX48alZbWS3CcetE5niA==",
+  "dgSpecHash": "sji7hoWSn0q86ermlOa39OkYDdDFlkXFLR4w4JRdq40g62zn2VY7CVxi5rUaAKmASfLsfGN2nEp2BJsqieeXNQ==",
   "success": true,
-  "projectFilePath": "D:\\GameServer\\ChessGameServer\\GameServer\\GameServer\\GameServer.csproj",
+  "projectFilePath": "D:\\ProjectWorkspace\\Test\\NetworkChess\\Server_NetworkChess\\GameServer\\GameServer.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

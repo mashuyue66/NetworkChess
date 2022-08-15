@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\GameServer\\ChessGameServer\\GameServer\\GameServer\\GameServer.csproj": {}
+    "D:\\ProjectWorkspace\\Test\\NetworkChess\\Server_NetworkChess\\GameServer\\GameServer.csproj": {}
   },
   "projects": {
-    "D:\\GameServer\\ChessGameServer\\GameServer\\GameServer\\GameServer.csproj": {
+    "D:\\ProjectWorkspace\\Test\\NetworkChess\\Server_NetworkChess\\GameServer\\GameServer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\GameServer\\ChessGameServer\\GameServer\\GameServer\\GameServer.csproj",
+        "projectUniqueName": "D:\\ProjectWorkspace\\Test\\NetworkChess\\Server_NetworkChess\\GameServer\\GameServer.csproj",
         "projectName": "GameServer",
-        "projectPath": "D:\\GameServer\\ChessGameServer\\GameServer\\GameServer\\GameServer.csproj",
+        "projectPath": "D:\\ProjectWorkspace\\Test\\NetworkChess\\Server_NetworkChess\\GameServer\\GameServer.csproj",
         "packagesPath": "C:\\Users\\auus\\.nuget\\packages\\",
-        "outputPath": "D:\\GameServer\\ChessGameServer\\GameServer\\GameServer\\obj\\",
+        "outputPath": "D:\\ProjectWorkspace\\Test\\NetworkChess\\Server_NetworkChess\\GameServer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
