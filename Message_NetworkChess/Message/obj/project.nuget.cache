@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tfggHh7TTQhryMDG12dWGOnmSNByyF8zVm09ozXI1TVyUQba2j0fGrNK7yLuG00J6GM7noSY9LfsKs1YqC7yXQ==",
+  "dgSpecHash": "pjK5Ag/WEfA4xuMsZoweI1SU0gyO6m2PuZgyYrNyAkKHy4awonattgPa6UJt23Qwhi60/QgV4lopJmNShdAIhg==",
   "success": true,
-  "projectFilePath": "D:\\ProjectWorkspace\\Test\\Server\\Message\\Message\\Message.csproj",
+  "projectFilePath": "D:\\ProjectWorkspace\\Test\\NetworkChess\\Message_NetworkChess\\Message\\Message.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
